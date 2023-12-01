@@ -9,6 +9,6 @@ Skillset:
 - Base level understanding of Python and Front End Devolopement 
 
 Contact Info:
-+ **Discord** - KLCD#7601
++ **Discord** - KLCD
 + **Email** - matt.flick.101@gmail.com
 + **Twitter** - TheKLCD
